@@ -1,4 +1,4 @@
-package com.mevenk.roughspringprojectselenium;
+package com.mevenk.webapptester.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
