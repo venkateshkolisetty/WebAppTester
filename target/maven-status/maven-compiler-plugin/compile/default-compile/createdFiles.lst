@@ -1,0 +1,3 @@
+com\mevenk\webapptester\webdriverconfig\PhantomJSWebDriverConfig.class
+com\mevenk\webapptester\runner\RunSampleTest.class
+com\mevenk\webapptester\util\WebAppTesterConstants.class
