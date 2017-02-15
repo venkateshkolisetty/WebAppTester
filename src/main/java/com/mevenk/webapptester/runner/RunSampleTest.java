@@ -8,7 +8,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import com.mevenk.webapptester.util.WebAppTesterConstants;
+import com.mevenk.webapptester.util.WebAppTesterUtil;
 import com.mevenk.webapptester.webdriverconfig.PhantomJSWebDriverConfig;
 
 /**
@@ -17,32 +17,14 @@ import com.mevenk.webapptester.webdriverconfig.PhantomJSWebDriverConfig;
  */
 public class RunSampleTest {
 
+	/** The PhantomJS web driver to run a sample test. */
+	static WebDriver webDriver = null;
+
 	/**
 	 * 
 	 */
 	public RunSampleTest() {
-		// TODO Auto-generated constructor stub
-	}
 
-	/**
-	 * @param webDriver
-	 */
-	private static void getCurrentStatus(WebDriver webDriver) {
-		System.out.println("Current Status" + WebAppTesterConstants.tabSpaceWithDoubleColun + webDriver.getCurrentUrl()
-				+ WebAppTesterConstants.tabSpaceWithSingleColun + webDriver.getTitle());
-	}
-
-	/**
-	 * Find element by id.
-	 *
-	 * @param webDriver
-	 *            the web driver
-	 * @param elementId
-	 *            the element id
-	 * @return the web element
-	 */
-	private static WebElement findElementById(WebDriver webDriver, String elementId) {
-		return webDriver.findElement(By.id(elementId));
 	}
 
 	/**
@@ -56,26 +38,34 @@ public class RunSampleTest {
 
 	private static void runPhantomJSDriver() {
 
-		WebDriver phantomJSDriver = PhantomJSWebDriverConfig.getPhantomJSWebDriver();
+		webDriver = PhantomJSWebDriverConfig.getPhantomJSWebDriver();
 
-		phantomJSDriver.navigate().to("http://venkatesh-vaio:8080/typicalwebapp");
+		webDriver.navigate().to("http://venkatesh-vaio:8080/typicalwebapp");
 
-		getCurrentStatus(phantomJSDriver);
+		WebAppTesterUtil.getCurrentStatus(webDriver);
 
-		findElementById(phantomJSDriver, "fileUploadPageLink").sendKeys(Keys.ENTER);
+		WebAppTesterUtil.findElementById(webDriver, "fileUploadPageLink").sendKeys(Keys.ENTER);
 
-		getCurrentStatus(phantomJSDriver);
+		WebAppTesterUtil.getCurrentStatus(webDriver);
 
-		findElementById(phantomJSDriver, "testRequestResponseButton").click();
+		WebAppTesterUtil.findElementById(webDriver, "testRequestResponseButton").click();
 
-		findElementById(phantomJSDriver, "fileupload").sendKeys("C:\\Users\\VENKATESH\\Desktop\\XHRFileUploadSuccess.PNG");
+		WebAppTesterUtil.findElementById(webDriver, "fileupload")
+				.sendKeys("C:\\Users\\VENKATESH\\Desktop\\XHRFileUploadSuccess.PNG");
 
-		findElementById(phantomJSDriver, "fileUploadButton").click();
+		WebAppTesterUtil.findElementById(webDriver, "fileUploadButton").click();
 
-		getCurrentStatus(phantomJSDriver);
+		WebAppTesterUtil.getCurrentStatus(webDriver);
 
-		phantomJSDriver.close();
-		phantomJSDriver.quit();
+	}
+
+	@Override
+	protected void finalize() {
+
+		if (webDriver != null) {
+			webDriver.close();
+			webDriver.quit();
+		}
 
 	}
 

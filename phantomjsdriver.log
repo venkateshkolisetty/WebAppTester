@@ -1,0 +1,328 @@
+[INFO  - 2017-01-26T13:14:05.566Z] GhostDriver - Main - running on port 3864
+[INFO  - 2017-01-26T13:14:06.303Z] Session [50ae2320-e3c9-11e6-b864-f3ab802aecf1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-01-26T13:14:06.303Z] Session [50ae2320-e3c9-11e6-b864-f3ab802aecf1] - page.customHeaders:  - {}
+[INFO  - 2017-01-26T13:14:06.304Z] Session [50ae2320-e3c9-11e6-b864-f3ab802aecf1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-01-26T13:14:06.305Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 50ae2320-e3c9-11e6-b864-f3ab802aecf1
+[INFO  - 2017-01-26T13:14:06.642Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-01-26T13:16:56.117Z] GhostDriver - Main - running on port 35863
+[INFO  - 2017-01-26T13:16:57.682Z] Session [b6d2d1a0-e3c9-11e6-894f-7745e65711c8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-01-26T13:16:57.683Z] Session [b6d2d1a0-e3c9-11e6-894f-7745e65711c8] - page.customHeaders:  - {}
+[INFO  - 2017-01-26T13:16:57.683Z] Session [b6d2d1a0-e3c9-11e6-894f-7745e65711c8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-01-26T13:16:57.684Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b6d2d1a0-e3c9-11e6-894f-7745e65711c8
+[INFO  - 2017-01-26T13:16:58.593Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-01-26T13:18:25.722Z] GhostDriver - Main - running on port 39254
+[INFO  - 2017-01-26T13:18:26.730Z] Session [ebe7afa0-e3c9-11e6-984a-fdc5364b56e2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-01-26T13:18:26.730Z] Session [ebe7afa0-e3c9-11e6-984a-fdc5364b56e2] - page.customHeaders:  - {}
+[INFO  - 2017-01-26T13:18:26.730Z] Session [ebe7afa0-e3c9-11e6-984a-fdc5364b56e2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-01-26T13:18:26.731Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ebe7afa0-e3c9-11e6-984a-fdc5364b56e2
+[INFO  - 2017-01-26T13:18:27.502Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-01-26T13:28:38.536Z] GhostDriver - Main - running on port 40273
+[INFO  - 2017-01-26T13:28:39.497Z] Session [592545e0-e3cb-11e6-9a79-c52b15e2d5b9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-01-26T13:28:39.498Z] Session [592545e0-e3cb-11e6-9a79-c52b15e2d5b9] - page.customHeaders:  - {}
+[INFO  - 2017-01-26T13:28:39.498Z] Session [592545e0-e3cb-11e6-9a79-c52b15e2d5b9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-01-26T13:28:39.499Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 592545e0-e3cb-11e6-9a79-c52b15e2d5b9
+[INFO  - 2017-01-26T13:28:41.529Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-01-26T13:33:07.145Z] GhostDriver - Main - running on port 47973
+[INFO  - 2017-01-26T13:33:08.047Z] Session [f93539a0-e3cb-11e6-b9e3-3dda32bde2ff] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-01-26T13:33:08.048Z] Session [f93539a0-e3cb-11e6-b9e3-3dda32bde2ff] - page.customHeaders:  - {}
+[INFO  - 2017-01-26T13:33:08.049Z] Session [f93539a0-e3cb-11e6-b9e3-3dda32bde2ff] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-01-26T13:33:08.049Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f93539a0-e3cb-11e6-b9e3-3dda32bde2ff
+[INFO  - 2017-01-26T13:33:09.945Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-01-26T13:34:03.102Z] GhostDriver - Main - running on port 24273
+[INFO  - 2017-01-26T13:34:04.026Z] Session [1a933f70-e3cc-11e6-8692-3b9656f1febb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-01-26T13:34:04.027Z] Session [1a933f70-e3cc-11e6-8692-3b9656f1febb] - page.customHeaders:  - {}
+[INFO  - 2017-01-26T13:34:04.027Z] Session [1a933f70-e3cc-11e6-8692-3b9656f1febb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-01-26T13:34:04.029Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1a933f70-e3cc-11e6-8692-3b9656f1febb
+[INFO  - 2017-01-26T13:34:05.624Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-02-14T15:52:28.546Z] GhostDriver - Main - running on port 23010
+[INFO  - 2017-02-14T15:52:29.248Z] Session [96ba5470-f2cd-11e6-ab39-d52e7a677751] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-14T15:52:29.248Z] Session [96ba5470-f2cd-11e6-ab39-d52e7a677751] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T15:52:29.248Z] Session [96ba5470-f2cd-11e6-ab39-d52e7a677751] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T15:52:29.248Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 96ba5470-f2cd-11e6-ab39-d52e7a677751
+[INFO  - 2017-02-14T15:57:28.542Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:02:28.541Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:07:28.544Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:12:28.547Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:17:28.554Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T15:54:02.894Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ce8aa8f0-f2cd-11e6-9aa2-6513259b9ec8
+[INFO  - 2017-02-14T15:59:02.313Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:04:02.313Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:09:02.314Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:14:02.315Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:19:02.328Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T15:54:16.166Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d673ce70-f2cd-11e6-9eec-69d59065bfa3
+[INFO  - 2017-02-14T15:59:15.117Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:04:15.122Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:09:15.122Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:14:15.126Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:19:15.136Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T15:56:17.099Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1e892cf0-f2ce-11e6-8ac3-97989c540d69
+[INFO  - 2017-02-14T16:01:16.626Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:06:16.619Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:11:16.623Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:16:16.631Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+e-11e6-ab98-6997aeb5c1a0] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T15:57:01.853Z] Session [39361810-f2ce-11e6-ab98-6997aeb5c1a0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T15:57:01.853Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 39361810-f2ce-11e6-ab98-6997aeb5c1a0
+[INFO  - 2017-02-14T16:02:00.890Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:07:00.890Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:12:00.894Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:17:00.897Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+e-11e6-969e-57c53dc548e1] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T15:57:43.004Z] Session [51bc2b90-f2ce-11e6-969e-57c53dc548e1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T15:57:43.005Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 51bc2b90-f2ce-11e6-969e-57c53dc548e1
+[INFO  - 2017-02-14T16:02:41.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:07:41.994Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:12:41.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:17:42.000Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+e-11e6-b24f-cffd586fa1e6] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T15:58:27.465Z] Session [6c3d4bc0-f2ce-11e6-b24f-cffd586fa1e6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T15:58:27.466Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6c3d4bc0-f2ce-11e6-b24f-cffd586fa1e6
+[ERROR - 2017-02-14T15:58:36.948Z] Session [6c3d4bc0-f2ce-11e6-b24f-cffd586fa1e6] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T15:58:36.948Z] Session [6c3d4bc0-f2ce-11e6-b24f-cffd586fa1e6] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[INFO  - 2017-02-14T16:03:26.483Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:08:26.484Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:13:26.486Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:18:26.492Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+-11e6-91d5-b950d03e7fab] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T15:59:32.174Z] Session [92ce7ed0-f2ce-11e6-91d5-b950d03e7fab] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T15:59:32.174Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 92ce7ed0-f2ce-11e6-91d5-b950d03e7fab
+[ERROR - 2017-02-14T15:59:49.312Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1487087989289
+[INFO  - 2017-02-14T16:04:31.054Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:09:31.054Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:14:31.055Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:19:31.067Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+-11e6-ac71-53250beb1fa9] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T16:01:49.816Z] Session [e4d99bb0-f2ce-11e6-ac71-53250beb1fa9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T16:01:49.817Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e4d99bb0-f2ce-11e6-ac71-53250beb1fa9
+[ERROR - 2017-02-14T16:01:58.484Z] Session [e4d99bb0-f2ce-11e6-ac71-53250beb1fa9] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:01:58.485Z] Session [e4d99bb0-f2ce-11e6-ac71-53250beb1fa9] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[INFO  - 2017-02-14T16:06:48.793Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:11:48.796Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:16:48.800Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+38.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-14T16:02:53.801Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T16:02:53.801Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T16:02:53.802Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0afccab0-f2cf-11e6-a602-f177e244ac02
+[ERROR - 2017-02-14T16:03:02.764Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:03:02.764Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:03:04.585Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:03:04.586Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:03:06.886Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:03:06.887Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:03:08.983Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:03:08.983Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:03:13.365Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:03:13.366Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:03:16.039Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:03:16.040Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:03:17.950Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:03:17.951Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:03:21.672Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:03:21.673Z] Session [0afccab0-f2cf-11e6-a602-f177e244ac02] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[INFO  - 2017-02-14T16:07:52.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:12:52.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:17:52.897Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+8.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-14T16:07:17.550Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T16:07:17.550Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T16:07:17.550Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a8318af0-f2cf-11e6-837b-a730c09a6149
+[ERROR - 2017-02-14T16:07:26.053Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:07:26.053Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:07:28.029Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:07:28.030Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:07:33.367Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:07:33.368Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:07:36.206Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:07:36.206Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:07:42.374Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:07:42.375Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:07:44.609Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:07:44.611Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:07:46.968Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:07:46.969Z] Session [a8318af0-f2cf-11e6-837b-a730c09a6149] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[INFO  - 2017-02-14T16:12:16.656Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-14T16:17:16.665Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+scriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-14T16:10:21.388Z] Session [15c32a10-f2d0-11e6-bd0e-1923f755414a] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T16:10:21.389Z] Session [15c32a10-f2d0-11e6-bd0e-1923f755414a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T16:10:21.391Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 15c32a10-f2d0-11e6-bd0e-1923f755414a
+[ERROR - 2017-02-14T16:10:41.973Z] Session [15c32a10-f2d0-11e6-bd0e-1923f755414a] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:10:41.973Z] Session [15c32a10-f2d0-11e6-bd0e-1923f755414a] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:11:06.980Z] Session [15c32a10-f2d0-11e6-bd0e-1923f755414a] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:11:06.981Z] Session [15c32a10-f2d0-11e6-bd0e-1923f755414a] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[ERROR - 2017-02-14T16:11:10.107Z] Session [15c32a10-f2d0-11e6-bd0e-1923f755414a] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:11:10.107Z] Session [15c32a10-f2d0-11e6-bd0e-1923f755414a] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[INFO  - 2017-02-14T16:15:19.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+e6-b887-71e15e6c93bb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-14T16:12:21.875Z] Session [5d962860-f2d0-11e6-b887-71e15e6c93bb] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T16:12:21.876Z] Session [5d962860-f2d0-11e6-b887-71e15e6c93bb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T16:12:21.876Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5d962860-f2d0-11e6-b887-71e15e6c93bb
+[INFO  - 2017-02-14T16:17:21.049Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+e6-b181-2790b77c8a78] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-14T16:13:10.246Z] Session [7a683d70-f2d0-11e6-b181-2790b77c8a78] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T16:13:10.247Z] Session [7a683d70-f2d0-11e6-b181-2790b77c8a78] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T16:13:10.247Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7a683d70-f2d0-11e6-b181-2790b77c8a78
+[INFO  - 2017-02-14T16:18:09.031Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+e6-9c0b-0f9e2cc59405] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-14T16:14:16.802Z] Session [a2142f50-f2d0-11e6-9c0b-0f9e2cc59405] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T16:14:16.802Z] Session [a2142f50-f2d0-11e6-9c0b-0f9e2cc59405] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T16:14:16.803Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a2142f50-f2d0-11e6-9c0b-0f9e2cc59405
+[ERROR - 2017-02-14T16:14:31.831Z] Session [a2142f50-f2d0-11e6-9c0b-0f9e2cc59405] - page.onError - msg: TypeError: null is not a constructor (evaluating 'g.q("ytbin.www.pageframe.setup")()')
+[ERROR - 2017-02-14T16:14:31.832Z] Session [a2142f50-f2d0-11e6-9c0b-0f9e2cc59405] - page.onError - stack:
+  c (https://www.youtube.com/yts/jsbin/www-en_US-vflzPvQ1b/base.js:804)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  forEach (:0)
+  t (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:8)
+  Ha (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:15)
+  Qa (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:18)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/spf-vflWieI3y/spf.js:7)
+[INFO  - 2017-02-14T16:19:15.124Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+e6-bf4c-7d449ab02dc4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-14T16:15:15.410Z] Session [c5033560-f2d0-11e6-bf4c-7d449ab02dc4] - page.customHeaders:  - {}
+[INFO  - 2017-02-14T16:15:15.411Z] Session [c5033560-f2d0-11e6-bf4c-7d449ab02dc4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-14T16:15:15.412Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c5033560-f2d0-11e6-bf4c-7d449ab02dc4
+[ERROR - 2017-02-14T16:17:04.696Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1487089024633
